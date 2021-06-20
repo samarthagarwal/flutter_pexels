@@ -13,29 +13,18 @@ Pexels is a Flutter application built for Android and iOS that uses the Pexels I
 
 |  |  |  |
 |----------------------------------|----------------------------------|----------------------------------|
-| ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) |
-| ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) |
+| ![alt text](./screenshots/1.png) | ![alt text](./screenshots/2.png) | ![alt text](./screenshots/3.png) |
+| ![alt text](./screenshots/4.png) | ![alt text](./screenshots/5.png) | ![alt text](./screenshots/6.png) |
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## How to Run
+
+Download or clone the project locally. Then run the following commands in order.
 
 ```bash
-pip install foobar
+flutter pub get
+flutter run
 ```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+You need to have the Flutter SDK setup on the development machine to test or build this project.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
