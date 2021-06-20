@@ -11,8 +11,10 @@ Pexels is a Flutter application built for Android and iOS that uses the Pexels I
 
 ## Screenshots
 
-![alt text](./screenshots/1.png) | ![alt text](./screenshots/2.png) | ![alt text](./screenshots/3.png)
-![alt text](./screenshots/4.png) | ![alt text](./screenshots/5.png) | ![alt text](./screenshots/6.png)
+|  |  |  |
+|----------------------------------|----------------------------------|----------------------------------|
+| ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) |
+| ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) | ![alt text](./screenshots/1.png) |
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
